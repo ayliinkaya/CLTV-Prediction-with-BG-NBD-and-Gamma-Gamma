@@ -1,1 +1,1 @@
-# ayliinkaya-CLTV-Prediction-with-BG-NBD-and-Gamma-Gamma
+# CLTV Prediction with BG-NBD and Gamma Gamma
